@@ -21,6 +21,8 @@ The API will provide part of the image url via the `poster_path` field of each f
 
 # Review
 
+fika-search.mov is a quick screencast of the application in action
+
 ## What I completed
 
 - Got the React Native Application running on an iOS simulator

@@ -18,3 +18,33 @@ genres - [https://api.themoviedb.org/3/genre/movie/list?api_key=d432b933ecc6d564
 The API will provide part of the image url via the `poster_path` field of each film. It must be combined with the base image path `https://image.tmdb.org/t/p/w500/`
 
 **Have fun!**
+
+# Review
+
+## What I completed
+
+- Got the React Native Application running on an iOS simulator
+- Implemented Navigation
+- Retrieved data from the server-side
+- Implemented the Fika Brand colours
+
+## What I didn't complete
+
+- Display the images as part of the poster_path.
+- I would have just used the `<Image source={`${basePath}${movie.image_path}`} />`
+- Improved layout
+- Testing on Android Simulator and Real Device
+
+## Things I would like to add
+
+Given more time (or as part of a larger project) I would add/consider:
+
+- Detox testing + React Native Testing Library tests
+- Test on physical devices and different operating systems
+- Implement infinite scrolling/search features for the application. This would be done fairly easily via the [React Query library](https://react-query.tanstack.com/docs/guides/infinite-queries)
+- Personalised choices, via a questionnaire
+- Implementing the Fika branding and tone of voice
+- Collaborate closely with the product department to understand the problem we're solving
+- Build a number of low-fidelity mockups to understand earlier on if we're acting against the business needs
+
+## How I would've approached this if I was given more time

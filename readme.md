@@ -37,16 +37,17 @@ fika-search.mov is a quick screencast of the application in action
 - Improved layout
 - Testing on Android Simulator and Real Device
 
-## Things I would like to add
+## How I would've approached this if I was given more time
 
 Given more time (or as part of a larger project) I would add/consider:
 
 - Detox testing + React Native Testing Library tests
 - Test on physical devices and different operating systems
 - Implement infinite scrolling/search features for the application. This would be done fairly easily via the [React Query library](https://react-query.tanstack.com/docs/guides/infinite-queries)
-- Personalised choices, via a questionnaire
+- Personalised choices, via a questionnaire, choose movie via genre
+
+## How I would've approached this if it was a larger project
+
 - Implementing the Fika branding and tone of voice
 - Collaborate closely with the product department to understand the problem we're solving
 - Build a number of low-fidelity mockups to understand earlier on if we're acting against the business needs
-
-## How I would've approached this if I was given more time

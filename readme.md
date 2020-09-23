@@ -29,6 +29,7 @@ fika-search.mov is a quick screencast of the application in action
 - Implemented Navigation
 - Retrieved data from the server-side
 - Implemented the Fika Brand colours
+- Rendered the movies data as a list
 
 ## What I didn't complete
 
